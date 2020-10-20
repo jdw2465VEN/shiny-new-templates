@@ -1,21 +1,35 @@
 # READMETitle 
+
 IntroParagraph (replace with a brief intro that tells users what this is and why they might want to use it) 
+
 ## Benefits summary 
+
 This is an optional section that should briefly expound on the benefits and/or pain points that are solved by using this solution.
+
 ## Requirements and dependencies
-Before you get started, here's what you'll need to get started. 
+
+Before you get started, here's what you'll need to get started.
+
 - Item1
 - Item2
 - Item3
+
 When you're ready, keep on reading!
-## Set up
-Follow along and you'll be up and running in no time. 
+
+## Setting up
+
+Follow along and you'll be up and running in no time.
+
 1. Step1
 2. Step2
 3. Step3
+
 ## Reference samples
+
 When you finish setting things up, check out our [reference samples](https://docs.venafi.com/) so you can put this solution to work today. 
+
 ## License
+
 Copyright © Venafi, Inc. All rights reserved.
 
 This solution is licensed under the Mozilla Public License, Version 2.0. See LICENSE for the full license text.
