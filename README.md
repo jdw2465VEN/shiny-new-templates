@@ -1,2 +1,2 @@
 # shiny-new-templates
-for learning the template capability of github
+This is a stub for now; replace with clear and simple explanation of how contributors should use this repo template for creating new solutions.
