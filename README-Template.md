@@ -27,7 +27,7 @@ When you're ready, continue to setting things up.
 
 Complete the following steps to set it all up.
 
-<!-- Be sure to walk them through all configurations and identify optional vs. required settings. 
+<!-- Be sure to walk them through all configurations and identify optional vs. required settings. -->
 
 1. Step1
 2. Step2
