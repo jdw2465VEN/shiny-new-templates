@@ -1,12 +1,10 @@
 # READMETitle 
 
-ReplaceMe
+{BriefDescription}
 <!-- Tell users what this is and why they'd want to use it. Keep it brief, but include details that would convince you of why taking the time to implement your solution is worth it. --> 
 
-## Benefits summary 
-
-ReplaceMe
-<!-- This is an optional section that should briefly expound on the benefits and/or pain points that are solved by using this solution. -->
+{VisualDiagram}
+<!-- (Optional) Include a diagram to give users a quick visual overview, e.g. https://github.com/jetstack/cert-manager. -->
 
 ## Requirements and dependencies
 
@@ -20,9 +18,16 @@ Before you get started, here's what you're going to need first.
 
 When you're ready, continue to setting things up.
 
+### Downloading or installing 
+
+{OptionalSection}
+<!-- (Optional) If applicable, tell users where and how to download any required compontents. -->
+
 ## Setting up
 
 Complete the following steps to set it all up.
+
+<!-- Be sure to walk them through all configurations and identify optional vs. required settings. 
 
 1. Step1
 2. Step2
